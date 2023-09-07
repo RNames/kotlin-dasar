@@ -39,18 +39,22 @@ fun main() {
     println(uint)
     println(ulong)
     println(all)
+    
     println("Integer")
     println(age)
     println(height)
     println(distance)
     println(balance)
+    
     println("Floating Point Numbers")
     println(value)
     println(radius)
+    
     println("Literals")
     println(decimalLiteral)
     println(hexadecimalLiteral)
     println(binaryLiteral)
+    
     println("Conversion")
     println(byte)
     println(double)
