@@ -16,4 +16,5 @@ fun main() {
     println(myTrue&&myFalse)
     println(!myTrue)
     println(!myFalse)
+    println("Is the wifi connected ? " + myFalse)
 }

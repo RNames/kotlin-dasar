@@ -33,28 +33,33 @@ fun main() {
     val byte: Byte = distance.toByte()
     val double: Double = number.toDouble()
 
+    //math
+    var a: Int = 10
+    var b: Int = 20
+
+    println(a + b)
+    println(a - b)
+    println(a * b)
+    println(b / a)
+
     println("Unsigned")
     println(ubyte)
     println(ushort)
     println(uint)
     println(ulong)
     println(all)
-    
     println("Integer")
     println(age)
     println(height)
     println(distance)
     println(balance)
-    
     println("Floating Point Numbers")
     println(value)
     println(radius)
-    
     println("Literals")
     println(decimalLiteral)
     println(hexadecimalLiteral)
     println(binaryLiteral)
-    
     println("Conversion")
     println(byte)
     println(double)
